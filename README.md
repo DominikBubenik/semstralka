@@ -1,0 +1,1 @@
+This is my semester work for programming course in java at my faculty. It isimplementation of card game Bang!. I kept that simple, so I made it just as console app. The main goal was to learn OOP and I think I made it :D.
